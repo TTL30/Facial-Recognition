@@ -1,2 +1,1 @@
-# Facial-Recognition
-Facial recognition with Kaggle
+Repo for learning TensorFlow and keras
